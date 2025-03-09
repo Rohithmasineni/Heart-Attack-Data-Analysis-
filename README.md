@@ -27,4 +27,4 @@ This project aims to analyze heart attack cases among young adults using SQL and
 Heart attacks are no longer just a concern for older adults—data analysis reveals a rising trend among young individuals. By identifying high-risk factors, we can raise awareness and advocate for preventative healthcare measures.
 
 
-# SQL # PowerBI # HealthcareAnalytics # DataScience # HeartHealth # DataDrivenInsights
+#### # SQL # PowerBI # HealthcareAnalytics # DataScience # HeartHealth # DataDrivenInsights
