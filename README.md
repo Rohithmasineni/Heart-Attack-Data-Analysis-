@@ -7,9 +7,13 @@ This project aims to analyze heart attack cases among young adults using SQL and
 
 # 🔍 Key Insights
 ✔️ 50% of heart attack cases were linked to Hypertension Stage 2, highlighting the role of high blood pressure.
+
 ✔️ 584 cases involved high cholesterol, reinforcing its contribution to heart disease.
+
 ✔️ 418 heart attack cases were associated with diabetes, showcasing its critical role.
+
 ✔️ The average age of heart attack patients is just 26.48, emphasizing the growing risk among youngsters.
+
 ✔️ Urban lifestyle, screen time, and sleep quality emerged as significant health factors.
 
 # 🛠 Tech Stack & Approach
